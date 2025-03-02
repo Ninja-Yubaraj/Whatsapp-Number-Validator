@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-number-validator",
+  "version": "1.0.0",
+  "description": "Tool to check number lists for valid Whatsapp numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ninja-Yubaraj/Whatsapp-Number-Validator.git"
+  },
+  "author": "Yubaraj Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ninja-Yubaraj/Whatsapp-Number-Validator/issues"
+  },
+  "homepage": "https://github.com/Ninja-Yubaraj/Whatsapp-Number-Validator#readme",
+  "dependencies": {
+    "puppeteer": "^24.3.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
