@@ -1,5 +1,8 @@
 # 📲 WhatsApp Number Validator (Node.js + whatsapp-web.js)
-This Node.js script checks whether phone numbers listed in a file (`numbers.txt`) are registered on WhatsApp. It then saves the valid WhatsApp numbers to `whatsapp-numbers.txt`.
+
+![WhatsAppNumberValidator](https://i.imgur.com/UCK3T3Q.png)
+
+**WhatsApp Number Validator** checks whether phone numbers listed in a file (`numbers.txt`) are registered on WhatsApp. It then saves the valid WhatsApp numbers to `whatsapp-numbers.txt`.
 
 
 ## 🚀 Features
